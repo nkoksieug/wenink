@@ -7,7 +7,7 @@
     </head>
     <body>
         <div>
-            <img src="IMAGE HOVER/image/1.jpg" alt="1"/>
+            <img src="file:///C:/Users/fpt11/OneDrive/Pictures/images%20(3).jpg" alt="1"/>
         </div>
 
     </body>
